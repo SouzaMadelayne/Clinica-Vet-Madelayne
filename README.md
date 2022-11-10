@@ -5,34 +5,37 @@
 			<title>Vida de Cachorro Veterinária e Pet Shop</title>
 	</head> 
 	<body>
-		<h2>Vida de Cachorro Veterinária e Pet Shop - Clínica Veterinária 24h em Curitiba</h2>
+		<h2 style = "font-size: 35 px; text-align: center; background: #FF1111"><em> Vida de Cachorro Veterinária e Pet Shop - Clínica Veterinária 24h em Curitiba</em></h2>
+
+		<img src = "clinica-veterinaria-curitiba-vet.png">
+
 	
 		<p>  Uma das melhores Clínicas Veterinárias de Curitiba! Aqui você encontra tudo que seu pet precisa, atendimento veterinário de 
 		qualidade! Consultas, vacinas, exames, internamentos e cirurgias. Agende agora mesmo seu horário. </p>
 		<p> Somos especialistas em cirurgia de castração em cães e gatos! Clique no botão abaixo e fale conosco.</p>
 
-		<p><strong>Serviços</strong></p>
+		<p style = "font-size: 20 px;text-align: center; background: #FF8888 "><em><strong>Serviços</strong></p>
 		<p> Oferecendo ao seu pet atendimento médico veterinário com qualidade, conforte e segurança. Conheça os serviços da nossa clinica.</p>
 
-		<p><strong>Emergência 24h</strong></p>
+		<p style = "font-size: 20 px;text-align: center; background: #FF8888"><strong>Emergência 24h</strong></p>
 		<p>Atendimento médico veterinário 24h para todo e qualquer tipo de urgência.</p>
 
-		<p><strong>Vacinas</strong></p>
+		<p style = "font-size: 20 px;text-align: center; background: #FF8888"><strong>Vacinas</strong></p>
 		<p>Precisa vacinar seu pet? As melhores marcas e com rígido controle de temperatura.</p>
 
-		<p><strong>Internamento</strong></p>
+		<p style = "font-size: 20 px;text-align: center; background: #FF8888"><strong>Internamento</strong></p>
 		<p>Estrutura completa com toda segurança necessária para o seu pet se sentir em casa!</p>
 		
-		<p><strong>Cirurgia</strong></p>
+		<p style = "font-size: 20 px;text-align: center; background: #FF8888"><strong>Cirurgia</strong></p>
 		<p>Centro Cirúrgico completo, com equipamentos de ponta para todas as cirurgias.</p>
 		
-		<p><strong>Castração</strong></p>
+		<p style = "font-size: 20 px;text-align: center; background: #FF8888"><strong>Castração</strong></p>
 		<p>Especialistas em cirurgia de castração em cães e gatos! Técnica minimamente invasiva.</p>
 		
-		<p><strong>Farmácia Veterinária</strong></p>
+		<p style = "font-size: 20 px;text-align: center; background: #FF8888"><strong>Farmácia Veterinária</strong></p>
 		<p>Além do melhor atendimento! Aqui você encontra todos os medicamentos necessários.</p>
 		
-		<p><strong>Exames</strong></p> 
+		<p style = "font-size: 20 px;text-align: center; background: #FF8888"><strong>Exames</strong></p> 
 		<p>Aqui nós realizamos os exame na hora! Mais conforto, agilidade e saúde para você e seu pet.</p>
 
 		<p><strong>A equipe:</strong></p>
@@ -73,5 +76,3 @@
 
 	</body> 
 </html>
-
-		
