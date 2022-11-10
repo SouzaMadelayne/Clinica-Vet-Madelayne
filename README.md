@@ -1,80 +1,77 @@
-# Clinica-Vet-Madelayne
 <!DOCTYPE html>
-<html	lang="pt-BR">
-				<head>
-						<meta	charset="utf-8">
-						<title>
-								Clinica vet Madelayne	|	Sobre	a	empresa
-						</title>
-						<link	href="img/favicon.ico" rel="icon">
-						<link	rel="stylesheet" href="css/sobre.css">
-				</head>
-				<body>
-						<img	src="img/logo.svg" alt="MusicDot">
-						<h1>	Tudo que o Seu Pet Precisa	</h1>
-						<p>
-								Um dos mais modernos hospitais veterinários do Brasil com uma estrutura completa e profissionais altamente capacitados.
-						</p>
-                        <p> 	
-Emergência
-Sala de emergência de pronto atendimento 24h para todo e qualquer tipo de urgência veterinária.
-						</p>
-							<figure>
-								<img	src="11-obesidade-Blog-640x367.png" alt="Matriz	da	musicdot">
-								<figcaption>
-												Matriz	MusicDot	
-								</figcaption>
-						</figure>
-						<p> 
-Vacinação
-Centro de Imunização com rigoroso controle de qualidade no armazenamento das vacinas.
+<html lang="pt-br">
+	<head> 
+			<meta charset="utf-8">
+			<title>Vida de Cachorro Veterinária e Pet Shop</title>
+	</head> 
+	<body>
+		<h2>Vida de Cachorro Veterinária e Pet Shop - Clínica Veterinária 24h em Curitiba</h2>
+	
+		<p>  Uma das melhores Clínicas Veterinárias de Curitiba! Aqui você encontra tudo que seu pet precisa, atendimento veterinário de 
+		qualidade! Consultas, vacinas, exames, internamentos e cirurgias. Agende agora mesmo seu horário. </p>
+		<p> Somos especialistas em cirurgia de castração em cães e gatos! Clique no botão abaixo e fale conosco.</p>
 
+		<p><strong>Serviços</strong></p>
+		<p> Oferecendo ao seu pet atendimento médico veterinário com qualidade, conforte e segurança. Conheça os serviços da nossa clinica.</p>
 
-						</p>
-						<h2	id="historia">	História	</h2>
-						<figure>
-								<img	src="img/familia-tupfeln.jpg" alt="Foto	da	família	tüpfeln">
-								<figcaption>Família	Tüpfeln</figcaption>
-						</figure>
-						<p>
-								
-Internação
-Dispomos de 8 áreas de internação, para cães, gatos, uti e isolamento infeccioso.
+		<p><strong>Emergência 24h</strong></p>
+		<p>Atendimento médico veterinário 24h para todo e qualquer tipo de urgência.</p>
 
+		<p><strong>Vacinas</strong></p>
+		<p>Precisa vacinar seu pet? As melhores marcas e com rígido controle de temperatura.</p>
 
-								</p>
-Castração
-Procedimento que visa evitar crias indesejadas realizado com toda segurança em centro cirúrgico moderno.
-						<p>
-								
-Dermatologia
-Dispomos de profissionais especialistas na área de dermatologia veterinária bem como exames dermatológicos.
+		<p><strong>Internamento</strong></p>
+		<p>Estrutura completa com toda segurança necessária para o seu pet se sentir em casa!</p>
+		
+		<p><strong>Cirurgia</strong></p>
+		<p>Centro Cirúrgico completo, com equipamentos de ponta para todas as cirurgias.</p>
+		
+		<p><strong>Castração</strong></p>
+		<p>Especialistas em cirurgia de castração em cães e gatos! Técnica minimamente invasiva.</p>
+		
+		<p><strong>Farmácia Veterinária</strong></p>
+		<p>Além do melhor atendimento! Aqui você encontra todos os medicamentos necessários.</p>
+		
+		<p><strong>Exames</strong></p> 
+		<p>Aqui nós realizamos os exame na hora! Mais conforto, agilidade e saúde para você e seu pet.</p>
 
+		<p><strong>A equipe:</strong></p>
+		<p>Aqui nos temos uma equipe multidisciplinar, qualificada e que prioriza a qualidade dos atendimentos! 
+		Conheça nossos profissionais:</p>
 
-						</p>
-						<p>
-								
-Cirurgia
-Moderno e equipado centro cirúrgico apto para realização de todos os tipos de cirurgias.
-						</p>
-						<p>
-								
-Farmácia Veterinária
-Todos os medicamentos necessários para a recuperação estão disponíveis em nossa farmácia veterinária.
-						</p>
-	+				<h2	id="diferenciais">	Diferenciais	</h2>
-	+				<ul>
-	+						<li>	
-Leva e Traz	</li>
-	+						<li>	
-Suíte do Tutor	</li>
-	+						<li>	
-Especialidades	</li>
-	+						<li>	
-Exames	</li>
-	+						<li>	
-Atendimento Domiciliar	</li>
-	+						
-	+				</ul>
-				</body>
-		</html>
+		<p>Médico veterinário, cirurgião geral e ortopedista.
+		Dr. Maurício R. H. </p> 
+
+		<p>Médico Veterinário e anestesiologista.
+		Dr. João Paulo H. T.</p> 
+
+		<p>Médica Veterinária e especialista em diagnóstico por imagem.
+		Dra. Larissa Z. K.</p> 
+
+		<p>Médica Veterinária e especialista em animais exóticos.
+		Dra. Maria Eduarda N.K.</p> 
+
+		<p>Médica Veterinária e clínica geral.
+		Dra. Gabrielle G. F.</p> 
+
+		<h1>Clínica Veterinária</h1>
+
+		<p>Vida de Cachorro Veterinária e Pet Shop 24h, possui estrutura completa e equipamentos de ponta. Oferecendo a você e seu pet o melhor atendimento! Consulta, vacina, exames, internamento e cirurgia.
+		Além disso, possuímos laboratório próprio sendo assim realizamos todos os exames necessário, agilizando o diagnóstico e 
+		proporcionando mais conforto e segurança.
+		Nós somos especialistas em castração para cães e gatos, operamos com técnicas menos invasivas, oferecendo mais segurança e uma 
+		rápida recuperação ao seu pet! 
+		Atendimento médico veterinário 24h! Venha nos visitar!</p>
+
+		<p>Unidade 1 – Clínica Veterinária 24 horas:
+		Rua dos Bulldogs, 1861 – ABRANCHES, Curitiba – PR
+		Telefone: 41-3152-1882</p>
+
+		<p>Unidade 2 – Consultório: Pet Shop, Centro de estética e consultório
+		Rua das Azaléias, 1962 loja 02 – LAMENHA, Curitiba – PR
+		Telefone: 41-3224-2234</p>
+
+	</body> 
+</html>
+
+		
